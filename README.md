@@ -1,4 +1,11 @@
-# snapp_app
+# Flutter Web (Snapp Website)
+
+![Screenshot 2022-02-24 151105](https://user-images.githubusercontent.com/87581799/155517636-b6369e03-7dc7-4c22-b511-f3a5fe7836c6.jpg)
+![Screenshot 2022-02-24 150951](https://user-images.githubusercontent.com/87581799/155517643-3d34fba2-0ac5-42f7-90bf-537004f721d3.jpg)
+![Screenshot 2022-02-24 151010](https://user-images.githubusercontent.com/87581799/155517645-e0afe2dd-b163-49f5-8323-5902e09e6048.jpg)
+![Screenshot 2022-02-24 151036](https://user-images.githubusercontent.com/87581799/155517647-ff3c3bd1-0c35-4be0-80e0-9d635d303341.jpg)
+![Screenshot 2022-02-24 151052](https://user-images.githubusercontent.com/87581799/155517649-9f4d7834-fa74-4e82-bd24-ebc5986bda57.jpg)
+
 
 A new Flutter project.
 
